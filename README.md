@@ -5,8 +5,8 @@
 
 In the command terminal, run the following commands:
 
-    $ git clone git@github.com:GeekyAnts/FlatApp-Firebase-Flutter.git
-    $ cd FlatApp-Firebase-Flutter/
+    $ git clone git@github.com:felipeevan/app_delivery.git
+    $ cd app_delivery/
     
 #### Setup Flutter Firebase integration
 Check out the [documentation](https://codelabs.developers.google.com/codelabs/flutter-firebase/#4) to setup Flutter Firebase integration.
