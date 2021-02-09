@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41443774595",
+    "project_id": "app-delivery-a070d",
+    "storage_bucket": "app-delivery-a070d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41443774595:android:20e468fc708afd0e41cbb6",
+        "android_client_info": {
+          "package_name": "br.com.fevangelista.app_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41443774595-670kjh0noppalcghoa1sgdaib7h0sbn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoPMkh8gSYAJC0w4xBM408b73nBqbi5hA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41443774595-670kjh0noppalcghoa1sgdaib7h0sbn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
