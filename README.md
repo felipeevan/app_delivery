@@ -7,7 +7,12 @@ In the command terminal, run the following commands:
 
     $ git clone git@github.com:felipeevan/app_delivery.git
     $ cd app_delivery/
-    
+
+#### Installation for Quick Test
+
+Click [here](https://github.com/felipeevan/app_delivery/raw/master/app-release.apk) to download the APK.
+
+
 #### Setup Flutter Firebase integration
 Check out the [documentation](https://codelabs.developers.google.com/codelabs/flutter-firebase/#4) to setup Flutter Firebase integration.
 
